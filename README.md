@@ -1,12 +1,41 @@
-# React + Vite
+# 🔍 Características Principales del cHallenge
+- ✨ Búsqueda en tiempo real con debounce
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- ➕ Añadir nuevas frases
 
-Currently, two official plugins are available:
+- ❌ Eliminar frases con confirmación
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🧪 Cobertura de tests con Jest y React Testing Library
 
-## Expanding the ESLint configuration
+- ⚡ Rendimiento optimizado con Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🎨 Estilos responsive con CSS puro
+
+
+# Cómo Empezar
+
+Prerrequisitos
+-  Node.js (v16 o superior)
+
+- npm (v9 o superior) o yarn
+
+1. Clonar el repositorio
+
+- git clone https://github.com/anamad8/FrasesReact
+- cd gestor-frases-react
+
+2. Instalar dependencias
+
+- npm install
+- yarn install
+
+3. Ejecutar en modo desarrollo
+
+- npm run dev
+- yarn dev
+
+La aplicación se abrirá automáticamente en http://localhost:5173
+
+
+
+
